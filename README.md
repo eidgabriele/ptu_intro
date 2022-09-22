@@ -1,2 +1,2 @@
 # ptu_intro
-ptu intro kursas
+ptu intro kursas !!
